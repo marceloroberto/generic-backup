@@ -3,11 +3,14 @@
 Backup web files in zip package and/or database in sql file for any applications or site.
 
 
-This software make backup to your software in PHP, Java, Ruby, Python or any language, CMS (Joomla, WordPress, Drupal, Grav, etc), applications (CakePHP, Zend, Laravel, etc) or any software.
+This software make backup to your software in any language.
 
 ## Download
-https://github.com/ribafs/backup-for-all
+https://github.com/ribafs/generic-backup
 
+## Permission backup sub folder
+
+Sub folder "backup" require apache write permission.
 
 **Download ans Server**
 
