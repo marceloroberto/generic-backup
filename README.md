@@ -42,6 +42,9 @@ Database
 
 Após o backup joga uma cópia para a pasta "backup" e oferece um link para download também.
 
+## Sugestões, correçõs e issues
+Serão sinceramente bem vindos.
+
 **License**
 
 GPL 3
