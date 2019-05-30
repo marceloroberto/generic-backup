@@ -1,6 +1,6 @@
 # Backup Genérico
 
-[Help in English](https://github.com/ribafs/generic-backup/blob/master/README-english.md)
+[Help in English](https://github.com/ribafs/generic-backup/blob/master/README-english.md) - Click here
 
 Empacota todos os arquivos de uma pasta e subpastas para o formato zip e exporta todo um banco de dados MySQL para um arquivo .sql, faz isso para qualquer aplicação ou site, independente da linguagem.
 
