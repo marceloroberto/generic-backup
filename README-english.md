@@ -1,4 +1,4 @@
-# backup-for-all
+# Generic Backup
 
 Backup web files in zip package and/or database in sql file for any applications or site.
 
@@ -12,19 +12,17 @@ https://github.com/ribafs/generic-backup
 
 Sub folder "backup" require apache write permission.
 
-**Download ans Server**
+**Download to Server**
 
-Download one copy to your desktop and save other to server in sub folder 'backup'.
+Download to your server and uncompreee to webserver folder.
 
 **Without Configuration**
 
-Only uncompress in your server and use.
+Only uncompress in your server, open in browser and use.
 
 **Languages**
 
 In two languages: portuguese and english (detected by browser).
-
-<br><br><br>
 
 **See captures in portuguese**
 
@@ -32,21 +30,14 @@ Index
 
 ![Index](images/index.png)
 
-<br><br><br>
-
 Files
 
 ![Files](images/files.png)
-
-<br><br><br>
 
 Database
 
 ![Database](images/db.png)
 
-<br><br><br>
-
 **License**
 
 GPL 3
-
